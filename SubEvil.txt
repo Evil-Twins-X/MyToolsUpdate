@@ -1,6 +1,8 @@
-V1.1.2
+V 2.1.1
 SubEvil.py
 Lib/HttpORHttps.py
+Lib/Brand.py
+Lib/PortScanner.py
 Modules/alienvault.py
 Modules/anubis.py
 Modules/binaryedge.py
